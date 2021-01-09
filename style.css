@@ -1,0 +1,126 @@
+body{
+
+    font-family: 'poppins',sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    color: black;
+}
+
+.orange_h{
+
+    color: salmon;
+}
+
+.half-width{
+    
+    float: left;
+    width: 35%;
+    margin-left:5%;
+    padding-left: 5%;
+}
+
+
+.half-width img{
+
+    width: 100%;
+}
+
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+}
+
+.project-area{
+
+    margin-bottom: 100px;
+}
+#project-a{
+    width: 20%;
+    box-shadow: 10px 40px 40px  gray;
+    border-radius: 10px;
+    height:80%;
+    padding-right: 60px;
+    background-color: white;
+}
+
+#project-b{
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height:80%;
+    padding-right: 60px;
+    background-color: white;
+}
+
+#project-c{
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height:80%;
+    padding-right: 60px;
+    background-color: white;
+}
+
+.s{
+    text-align: center;
+}
+
+
+
+
+.inquery-box {
+    background-image:linear-gradient(180deg, indigo, #4E0E78);
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 40px;
+    border: 1px solid blue ;
+    border-radius: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 150px;
+  }
+
+  .inquery-button{
+
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    margin-left: 120px;
+
+  }
+
+  .footer-describe{
+
+    text-align: center;
+  }
+
+  .footer-image{
+
+    text-align: center;
+  }
